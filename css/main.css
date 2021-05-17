@@ -1,0 +1,23 @@
+.footer{
+    padding:0;
+    border: oldlace;
+    text-align: center;
+    background-image:url(./../images/reading.jpg);
+    
+	background-size: cover;
+	background-position:top right;
+	padding-bottom:300px;
+}
+
+
+ .contact-list{
+	list-style-type:none;
+	padding: 5px;
+	display: flex;
+	justify-content: space-around;
+	
+ }
+ .contan-list a{
+	padding:20px;
+	display: inline-block;
+ }
